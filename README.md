@@ -1,4 +1,4 @@
-# 🛡️ Awesome Cybersecurity Tools  
+# 🛡️ Valkyrie Cybersecurity Tools  
 *A curated list of impactful open-source cybersecurity tools, brought to you by **Valkyrie Systems**.*
 
 ## About This Repository  
@@ -71,7 +71,7 @@ Welcome to the **Awesome Cybersecurity Tools** repository! We showcase powerful 
 ---
 
 ## About Valkyrie Systems  
-We are **Valkyrie Systems**, a luxury cybersecurity firm specializing in offensive and defensive solutions. From consultancy to building cutting-edge tools and applications, we ensure robust security tailored to modern challenges. Learn more at [Valkyrie Systems](#).  
+We are **Valkyrie Systems**, a luxury cybersecurity firm specializing in offensive and defensive solutions. From consultancy to building cutting-edge tools and applications, we ensure robust security tailored to modern challenges. Learn more at [Valkyrie Systems Pvt Ltd](https://valsec.cloud/).  
 
 ---
 
